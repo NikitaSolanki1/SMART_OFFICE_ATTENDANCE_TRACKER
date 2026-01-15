@@ -1,0 +1,10 @@
+EMP001,John Smith,5000.00,Engineering,Software Engineer,john.smith@smartoffic.com,2023-01-15,0,0,0,0.0
+EMP002,Sarah Johnson,4500.00,Marketing,Marketing Manager,sarah.johnson@smartoffic.com,2023-02-20,0,0,0,0.0
+EMP003,Michael Davis,5500.00,Engineering,Senior Developer,michael.davis@smartoffic.com,2022-11-10,0,0,0,0.0
+EMP004,Emily Wilson,4800.00,HR,HR Specialist,emily.wilson@smartoffic.com,2023-03-05,0,0,0,0.0
+EMP005,David Brown,5200.00,Sales,Sales Representative,david.brown@smartoffic.com,2023-04-12,0,0,0,0.0
+EMP006,Jessica Garcia,4700.00,Finance,Accountant,jessica.garcia@smartoffic.com,2023-05-18,0,0,0,0.0
+EMP007,Robert Miller,6000.00,Engineering,Tech Lead,robert.miller@smartoffic.com,2022-08-25,0,0,0,0.0
+EMP008,Lisa Anderson,4900.00,Operations,Operations Manager,lisa.anderson@smartoffic.com,2023-06-30,0,0,0,0.0
+EMP009,James Taylor,5300.00,Engineering,DevOps Engineer,james.taylor@smartoffic.com,2023-07-14,0,0,0,0.0
+EMP010,Maria Martinez,4600.00,Design,UX Designer,maria.martinez@smartoffic.com,2023-08-22,0,0,0,0.0
