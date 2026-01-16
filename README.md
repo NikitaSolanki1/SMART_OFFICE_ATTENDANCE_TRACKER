@@ -1,8 +1,7 @@
 # Nikerio Attendance and Salary Tracker
 
 ## Description
-This is a comprehensive Python project that demonstrates Object-Oriented Programming (OOP) concepts while providing a realistic employee management system. I have made this project for my understanding.
-It allows you to manage employees in a company, track various types of attendance, calculate salaries including overtime, and save/load data to/from a file. The system comes pre-loaded with sample employee data for immediate use. 
+This is a comprehensive Python project that demonstrates Object-Oriented Programming (OOP) concepts while providing a realistic employee management system. I created this project as part of my OOP practice and to improve my understanding of how real-world systems are built. It allows you to manage employees in a company, track different types of attendance, calculate salaries including overtime, and save or load data using file handling. The system also includes sample employee data so you can start using it right away.
 
 ## OOP Concepts Used
 - **Class**: Blueprint for creating objects (e.g., Employee, Company).
